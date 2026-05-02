@@ -97,10 +97,11 @@ During this internship, I gained strong practical knowledge in Python and machin
 
 
 ## **Learnings from LST and SST**
+Soft Skills Training (SST) sessions focused on improving my communication skills, teamwork, and professional behavior. Through these sessions, I learned how to present ideas clearly, interact confidently in professional environments, and understand industry expectations. SST helped me develop workplace readiness and prepared me to adapt to real-world industrial and organizational settings.  
+
 
 Life Skills Training (LST) sessions helped me develop self-awareness, self-confidence, and emotional intelligence. These sessions encouraged me to understand my strengths and areas of improvement, manage stress effectively, and maintain a positive attitude during challenges. LST played an important role in shaping my mindset, discipline, and personal growth.
 
-Soft Skills Training (SST) sessions focused on improving my communication skills, teamwork, and professional behavior. Through these sessions, I learned how to present ideas clearly, interact confidently in professional environments, and understand industry expectations. SST helped me develop workplace readiness and prepared me to adapt to real-world industrial and organizational settings.
 ---
 
 ## **Community Services**
@@ -157,7 +158,14 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to express my sincere gratitude to my mentor Mr.Bhargavesh Dakka, Data Scientist at MuSigma, for his valuable guidance, continuous support, and insightful feedback throughout the course of this project. His expertise and mentorship played a crucial role in shaping my understanding of data science concepts and their practical application in real-world scenarios.
+
+I am also deeply thankful to the Prof. Radhakumari Challa , Executive Director and Founder - SURE Trust for providing this wonderful opportunity to work on an industry-relevant project. Their constant encouragement, structured program, and administrative support created a positive learning environment that helped me enhance both my technical and professional skills.
+
+I would like to extend my appreciation to all the organizers and faculty members involved for their cooperation and timely assistance during the project period. This experience has been highly enriching and has significantly contributed to my growth, confidence, and readiness for future professional challenges.
+
+Lastly, I am grateful to everyone who directly or indirectly supported me throughout this journey. This project has been a valuable learning experience, and I sincerely appreciate all the guidance and opportunities provided.
+
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
