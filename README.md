@@ -81,7 +81,7 @@ During this internship, I gained strong practical knowledge in Python and machin
   Deep learning-based skin disease classification using a Swin Transformer on the HAM10000 dataset, with transfer learning, class imbalance handling, and end-to-end PyTorch pipeline.
 </p>
 <p>
-  <a href="[<!-- Add link to full report -->" target=](https://github.com/Dileep066/Skin-Disease-Prediction/blob/main/sure.pdf)"_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Dileep066/Skin-Disease-Prediction/blob/main/sure.pdf"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
