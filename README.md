@@ -69,7 +69,6 @@ During this internship, I gained strong practical knowledge in Python and machin
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;Skin Disease Prediction&gt;</p>
 
 
 
