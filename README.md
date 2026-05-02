@@ -98,9 +98,9 @@ During this internship, I gained strong practical knowledge in Python and machin
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+Life Skills Training (LST) sessions helped me develop self-awareness, self-confidence, and emotional intelligence. These sessions encouraged me to understand my strengths and areas of improvement, manage stress effectively, and maintain a positive attitude during challenges. LST played an important role in shaping my mindset, discipline, and personal growth.
+
+Soft Skills Training (SST) sessions focused on improving my communication skills, teamwork, and professional behavior. Through these sessions, I learned how to present ideas clearly, interact confidently in professional environments, and understand industry expectations. SST helped me develop workplace readiness and prepared me to adapt to real-world industrial and organizational settings.
 ---
 
 ## **Community Services**
@@ -136,9 +136,9 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/Dileep066/Skin-Disease-Prediction/blob/main/plant%20trees.jpeg" width="30%">
+<img src="https://github.com/Dileep066/Skin-Disease-Prediction/blob/main/service%20help.jpeg" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/Dileep066/Skin-Disease-Prediction/blob/main/blooddonation.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
